@@ -1,5 +1,6 @@
 payload:
   - DOMAIN,apple.comscoreresearch.com
+  - DOMAIN-SUFFIX,itunes-apple.com.akadns.net
   - DOMAIN-SUFFIX,aaplimg.com
   - DOMAIN-SUFFIX,akadns.net
   - DOMAIN-SUFFIX,apple-cloudkit.com
